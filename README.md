@@ -1,5 +1,5 @@
 # 2020 Intel Drone Competition
-The competition was held in Gwangju in 2020. I was in charge of hosting this competition, wrote the manual, and etc.
+The competition was held in Gwangju in 2020 and co-organized by Institute for Artificial Intelligence (GIST, South Korea) and Intel Korea. I was in charge of hosting this competition, wrote the manual, and etc.
 
 ## 2019 Intel drone competition
 https://youtu.be/LuVZOHfkao8
