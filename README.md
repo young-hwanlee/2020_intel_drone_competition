@@ -1,5 +1,11 @@
+# Practical exercise for the image classification using Mobilenet
+https://youtu.be/GUGEhMVRYYE
+
+# Deep learning inference using OpenVINO
+https://youtu.be/3bUenKiJRBk
+
 # 2019 Intel drone competition
-https://www.youtube.com/watch?v=LuVZOHfkao8&ab_channel=%EC%9D%B8%ED%85%94AI%EC%86%94%EB%A3%A8%EC%85%98
+https://youtu.be/LuVZOHfkao8
 
 # 2020 Video clip from the beginning of the competition to the preliminary matches
 https://youtu.be/dhyq6Luv8a4
